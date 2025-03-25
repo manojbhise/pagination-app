@@ -16,6 +16,12 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Pages:
+![image](https://github.com/user-attachments/assets/16e8672f-a792-4c2a-85e5-2bd2815cfaf8)
+![image](https://github.com/user-attachments/assets/34c2e3e5-c8df-45ba-9827-fb91413fdbe3)
+![image](https://github.com/user-attachments/assets/0be42877-2b01-41eb-9715-e78ae1868c55)
+![image](https://github.com/user-attachments/assets/d86fb736-454a-453f-a1f6-b577dc4d53b0)
+
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
